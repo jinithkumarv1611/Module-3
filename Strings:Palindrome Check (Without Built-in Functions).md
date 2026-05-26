@@ -13,7 +13,7 @@ To write a Python program to check whether the string `"google"` is a **palindro
 
 ## 🧾 Program
 ```python
-s = "malayalam"
+s = "google"
 
 rev = s[::-1]
 
@@ -24,7 +24,7 @@ else:
 ```
 
 ## Output
-<img width="1221" height="254" alt="image" src="https://github.com/user-attachments/assets/0ecbf903-a1d1-4fff-87d0-e12cef482a28" />
+<img width="1167" height="246" alt="image" src="https://github.com/user-attachments/assets/b215bbc5-3985-4807-b4be-5d79899c5e2c" />
 
 ## Result
 Thus the given program executed Sucessfully.
